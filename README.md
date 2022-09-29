@@ -8,7 +8,7 @@ Content
 - **CLIENT.cbl** A helper module to communicate with the Maexchen server
   Can be compiled with:
   ```bash
-  cobc -x -I copy CLIENT.CBL
+  cobc -x -I copy CLIENT.cbl
   ```
   
   Can be started with:
@@ -22,7 +22,7 @@ Content
 - **DUMMBOT.cbl** A stupid bot that always sees (even if it is the first round and he looses immediately).
   Compile with:
   ```bash
-  cobc -m -I copy DUMMBOT.CBL
+  cobc -m -I copy DUMMBOT.cbl
   ```
 - **SIMPLBOT.cbl** A more elaborate version of the DUMMBOT.cbl.
 
