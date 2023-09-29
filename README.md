@@ -24,7 +24,6 @@ Content
   ```bash
   cobc -m -I copy DUMMBOT.cbl
   ```
-- **SIMPLBOT.cbl** A more elaborate version of the DUMMBOT.cbl.
 
 Protocol
 ----------
